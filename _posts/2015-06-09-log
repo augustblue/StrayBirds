@@ -15,10 +15,25 @@ category: 生活
 
 # 所学
 
-其实一年级的时候有一门课是关于经济学史的，不过觉得不重要再加上那老教授天马行空的讲述便没在好好听课。关于凯恩斯之类的time line一直觉得有点困惑。
+其实一年级的时候有一门课是关于经济学史的，不过觉得不重要或者说有更重要的考试要准备，再加上那老教授天马行空的讲述便没怎么去听课（现在想来这块还是有必要了解的，不过应该改变一下上课的模式，比如可以一开始让
+大家选好感兴趣的话题，然后上课时间自己查阅整理资料，教授提点提点就好了嘛）。
+关于凯恩斯之类的time line一直没有搞得很清楚，看paper的时候会觉得纠结，于是在网上查了下，大抵是这样的（这里就把时间列一列，详细的东西可是讲不过来的）：    
+## Classical Economics
+从亚当斯密看不见的手开始，Say's law，主要是说不需要干预市场能自己有效的进行调节，有个general equilibrium之类的。
+## Keynesian Economics
+在1936年大萧条的时候，凯恩斯出了本他理论的书（记得那个老教授还让我们传阅过来着）。他是支持有政府央行这种部门，能够有效调节经济，特别在市场调控失常时。
+## Neo-Keynesian Economics
+这是二战后，1950s以及之后十几二十年主流的理论，主要是由John Hicks, Franco Modigliani, and Paul Samuelson等经济学家在凯恩斯理论的框架下，
+formalize(各种maximize)他的想法。之后由于出现了new-keynesian，这个后来也被称作old keynesian。他们和一批主张neo-classical的理论结合在一起，被称作是neo-classic synthesis。
+里面大抵是加上了micro foundation。
+## New-Keynesian Economics
+80s之后的经济学，和现在宏观差不多了，DSGE模型什么的都来了。基本上就是大融合取其精华去其糟粕之类的。    
+总之就是一批classical 和keynesian的后代们互相辩论而有现在的理论。     
 
-
+查这个最主要是因为monetary policy里面有一块比较重要的内容涉及了K（Svensson, 1997）以及NK(CGG，1999)的模型。货币政策的模型一般主要是两个式子，demand curve（IS）
+和Philips Curve. K的model是backward looking，具体说就是下一期output和inflation是depend on这一期的变量；而NK则是forward-looking，这一期的
+变量是基于人们对未来的期望值。然后minimize loss function subject to 这两个constraints，然后解出optimal interest rate，当做是target。
 # 所感
 
 上ECB的网站看了一下相关的货币政策，刚好是材料里面的东西，便稍微仔细得看了一下。感触是真的详细透明啊，原来学的东西果真是在运用着的，还是蛮有意思的。
-然后上我国央行的网站看了一下，有些失望，原因可想而知，希望以后能慢慢完善。人家发展那会咱们还在改革呢。
+然后上我国央行的网站看了一下，有些失望，原因可想而知，希望以后能慢慢完善。毕竟人家发展那会咱们还在改革呢。
