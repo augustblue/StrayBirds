@@ -67,7 +67,7 @@ author:
     name: Yangming
     email: baoyangming@yeah.net
     imageLink: http://tp4.sinaimg.cn/1640815591/180/5728544328/0
-    simpleIntro: 记录点滴。
+    simpleIntro: 时间过得太快，不如将生活记录下来。
     detailIntro:
       <p>时间流逝的太快，想要找个地方能记录我的所思所学所感。</p>
       <p>这个地方是写给自己的，也许大多是自语的琐碎。如果你偶然经过，也希望你能喜欢。</p>
@@ -110,7 +110,7 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 时间过得太快，不如将生活记录下来。
+title: 记录点滴
 description: 怀念抒情的日子。 
 theme: kunka
 disqusname: Yangming Bao
