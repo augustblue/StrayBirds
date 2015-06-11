@@ -100,7 +100,7 @@ customLinks:
 #comment config
 disqus:
   config: true
-  id: Yangming Bao
+  id: yangmingbao
 
 
 #################################### global configure #######################################
@@ -113,7 +113,7 @@ highlighter: pygments
 title: 记录点滴
 description: 怀念抒情的日子。 
 theme: kunka
-disqusname: Yangming Bao
+disqusname: yangmingbao
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
