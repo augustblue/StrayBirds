@@ -99,8 +99,8 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
-  id: minixalpha
+  config: true
+  id: Yangming Bao
 
 
 #################################### global configure #######################################
