@@ -110,7 +110,7 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 记录点滴
+title: 时间过得太快，不如将生活记录下来。
 description: 怀念抒情的日子。 
 theme: kunka
 disqusname: Yangming Bao
