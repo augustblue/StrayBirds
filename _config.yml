@@ -110,8 +110,8 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 记录点滴
-description: 怀念抒情的日子。 
+title: PhD的苦逼日常。
+description: 记录点滴。 
 theme: kunka
 disqusname: yangmingbao
 
